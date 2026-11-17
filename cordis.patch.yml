@@ -1,0 +1,4 @@
+- insert:
+    - id: novel-workbench
+      name: '@local/dsh-novel-workbench'
+      config: {}

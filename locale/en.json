@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Novel creator workbench",
+    "description": "A three-column long-form writing workbench: works, a Markdown chapter tree, an editor with preview, and boards for characters, character quests, the eight-step character arc, maps, events, relationships, items, plotlines, foreshadowing, tension, and hooks, plus AI rewrite, expansion, analysis, and next-step suggestions for a preview selection, and reviewed AI incremental updates for the story boards. Every chapter is a Markdown file and every change can be committed to Git.",
+    "detail": "docs/DETAIL.md"
+  }
+}
